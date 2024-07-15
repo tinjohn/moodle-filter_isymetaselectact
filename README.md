@@ -1,5 +1,5 @@
 # moodle-filter_isymetaselectact
-Adds a Filter to Moodle to automatically embed an ISy Metaselect Activiy -content in textfields.
+Adds a Filter to Moodle to automatically embed an ISy Metaselect Activity -content in textfields.
 
 This filter adds the possibility to get isymetaselectact content being automatically embedded in textfields based on the activityname.
 
